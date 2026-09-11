@@ -1,0 +1,27 @@
+<svg width="1600" height="110" viewBox="0 0 1600 110" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Built in Lusaka, Zambia">
+  <defs>
+    <linearGradient id="accentF" x1="0" y1="0" x2="1600" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1337EC"/>
+      <stop offset="0.5" stop-color="#60A5FA"/>
+      <stop offset="1" stop-color="#A855F7"/>
+    </linearGradient>
+    <radialGradient id="glowF" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(800 120) scale(620 160)">
+      <stop offset="0" stop-color="#1337EC" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#1337EC" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="frameF">
+      <rect width="1600" height="110" rx="18"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#frameF)">
+    <rect width="1600" height="110" fill="#05060B"/>
+    <rect width="1600" height="110" fill="url(#glowF)"/>
+    <rect width="1600" height="4" fill="url(#accentF)"/>
+    <path d="M60 47v16M52 55h16" stroke="#60A5FA" stroke-opacity="0.45" stroke-width="2"/>
+    <path d="M1540 47v16M1532 55h16" stroke="#60A5FA" stroke-opacity="0.45" stroke-width="2"/>
+    <text x="800" y="64" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="26" font-weight="600" letter-spacing="6" fill="#94A3B8">BUILT IN <tspan fill="#60A5FA">LUSAKA</tspan> · ZAMBIA</text>
+  </g>
+
+  <rect x="0.75" y="0.75" width="1598.5" height="108.5" rx="17.25" stroke="#1337EC" stroke-opacity="0.32" stroke-width="1.5"/>
+</svg>
