@@ -98,7 +98,7 @@ Full-stack engineer shipping production systems end-to-end across mobile, web, a
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=CHAMA18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub stats" height="165"/>
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=CHAMA18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub stats" height="165"/>
     </td>
     <td align="center">
       <img src="https://streak-stats.demolab.com?user=CHAMA18&theme=github-dark&hide_border=true&background=00000000" alt="GitHub streak" height="165"/>
@@ -106,7 +106,7 @@ Full-stack engineer shipping production systems end-to-end across mobile, web, a
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHAMA18&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8" alt="Top languages" height="165"/>
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CHAMA18&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8" alt="Top languages" height="165"/>
     </td>
   </tr>
 </table>
