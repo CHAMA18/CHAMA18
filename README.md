@@ -64,21 +64,6 @@ Full-stack engineer shipping production systems end-to-end across mobile, web, a
 
 <br/>
 
-<!-- ══════════════════════════ FEATURED SYSTEMS ══════════════════════════ -->
-
-## 🚀 Featured Systems
-
-| System | Domain | Stack | Access |
-| --- | --- | --- | --- |
-| **[NDU Project](https://github.com/CHAMA18/NDU-Project)** | Logistics & delivery platform — Navigate. Deliver. Upgrade. | Flutter · Node.js · PostgreSQL · Docker | [nduproject.com](https://nduproject.com) |
-| **[UlimaAI](https://github.com/CHAMA18/UlimiAI)** | Offline AI agricultural advisor · 21 African languages | Python · Qwen2-1.5B · offline-first | Repository |
-| **[Reform](https://github.com/CHAMA18/reform)** | AI-native dynamic form builder — flowchart editor, Zod validation engine, REST API, 10 AI features | Next.js · TypeScript · Xano · Zod | Repository |
-| **[Delegate.ai](https://github.com/CHAMA18/delegate-ai)** | AI agent that turns meeting notes into autonomous execution | TypeScript · LLM orchestration | Repository |
-| **[Verdant AI](https://github.com/CHAMA18/verdant-ai)** | Compliance co-pilot for global trade | Next.js · TypeScript | Repository |
-| **[PatikaGo](https://github.com/CHAMA18/PatikaGo-web-testable)** | Mobility super-app — web-testable build | Flutter · Next.js · TypeScript | Repository |
-
-<br/>
-
 <!-- ══════════════════════════ CURRENT FOCUS ══════════════════════════ -->
 
 ## 🎯 Current Focus
