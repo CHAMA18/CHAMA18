@@ -2,10 +2,10 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1337EC,50:60A5FA,100:A855F7&height=190&section=header&text=Chungu%20Chipimo%20Chama&fontSize=42&fontColor=ffffff&fontAlignY=32&desc=Engineering%20The%20Future%20%C2%B7%20Lusaka%2C%20Zambia&descAlignY=53&descSize=18&animation=fadeIn" width="100%" alt="header-banner"/>
+<img src="https://raw.githubusercontent.com/CHAMA18/CHAMA18/main/assets/hero-banner.svg" width="100%" alt="Chungu Chipimo Chama — Engineering The Future · Full-Stack Engineer · Lusaka, Zambia"/>
 
 <a href="https://github.com/CHAMA18">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3200&pause=900&color=60A5FA&center=true&vCenter=true&width=660&height=52&lines=Full-Stack+Engineer;Flutter+%C2%B7+Next.js+%C2%B7+Python+%C2%B7+TypeScript;Building+AI+products+in+production;10%2C500%2B+contributions+%2F+trailing+12+mo" alt="typing-animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=3000&pause=1100&color=3B82F6&center=true&vCenter=true&width=640&height=46&lines=Building+AI+products+in+production;NDU+%C2%B7+UlimaAI+%C2%B7+Reform+%C2%B7+Delegate.ai;10%2C500%2B+contributions+%2F+trailing+12+mo;Open+to+opportunities+%E2%80%94+remote-friendly" alt="typing-animation"/>
 </a>
 
 </div>
@@ -114,6 +114,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1337EC,50:60A5FA,100:A855F7&height=110&section=footer&text=BUILT%20IN%20LUSAKA%20%C2%B7%20ZAMBIA&fontSize=18&fontColor=ffffff&fontAlignY=68" width="100%" alt="footer-banner"/>
+<img src="https://raw.githubusercontent.com/CHAMA18/CHAMA18/main/assets/footer-strip.svg" width="100%" alt="Built in Lusaka, Zambia"/>
 
 </div>
