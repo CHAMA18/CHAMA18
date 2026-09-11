@@ -1,11 +1,11 @@
-<!-- ══════════════════════════ CHAMA18 · PROFILE README ══════════════════════════ -->
+<!-- ══════════════════════════ CHAMA18 · PROFILE README · theme: chungu-chama.com (#05060b / #101322 / #1337EC) ══════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9d,50:00c9ff,100:4d00ff&height=190&section=header&text=Chungu%20Chipimo%20Chama&fontSize=42&fontColor=ffffff&fontAlignY=32&desc=Full-Stack%20Engineer%20%C2%B7%20Lusaka%2C%20Zambia&descAlignY=53&descSize=18&animation=fadeIn" width="100%" alt="header-banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1337EC,50:60A5FA,100:A855F7&height=190&section=header&text=Chungu%20Chipimo%20Chama&fontSize=42&fontColor=ffffff&fontAlignY=32&desc=Engineering%20The%20Future%20%C2%B7%20Lusaka%2C%20Zambia&descAlignY=53&descSize=18&animation=fadeIn" width="100%" alt="header-banner"/>
 
 <a href="https://github.com/CHAMA18">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3200&pause=900&color=00FF9D&center=true&vCenter=true&width=660&height=52&lines=Full-Stack+Engineer;Flutter+%C2%B7+Next.js+%C2%B7+Python+%C2%B7+TypeScript;Building+AI+products+in+production;10%2C500%2B+contributions+%2F+trailing+12+mo" alt="typing-animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3200&pause=900&color=60A5FA&center=true&vCenter=true&width=660&height=52&lines=Full-Stack+Engineer;Flutter+%C2%B7+Next.js+%C2%B7+Python+%C2%B7+TypeScript;Building+AI+products+in+production;10%2C500%2B+contributions+%2F+trailing+12+mo" alt="typing-animation"/>
 </a>
 
 </div>
@@ -31,34 +31,34 @@ Full-stack engineer shipping production systems end-to-end across mobile, web, a
 
 **`LANGUAGES`**
 
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-1337EC?style=for-the-badge&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1337EC?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-1337EC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-1337EC?style=for-the-badge&logo=javascript&logoColor=white)
 
 **`MOBILE`**
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Material 3](https://img.shields.io/badge/Material_3-757575?style=for-the-badge&logo=material-design&logoColor=white)
-![FlutterFlow AI](https://img.shields.io/badge/FlutterFlow_AI-5D3FD3?style=for-the-badge&logo=flutter&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-1337EC?style=for-the-badge&logo=flutter&logoColor=white)
+![Material 3](https://img.shields.io/badge/Material_3-1337EC?style=for-the-badge&logo=material-design&logoColor=white)
+![FlutterFlow AI](https://img.shields.io/badge/FlutterFlow_AI-1337EC?style=for-the-badge&logo=flutter&logoColor=white)
 
 **`WEB & BACKEND`**
 
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Docusaurus](https://img.shields.io/badge/Docusaurus-3ECC5F?style=for-the-badge&logo=docusaurus&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-1337EC?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-1337EC?style=for-the-badge&logo=react&logoColor=white)
+![Django](https://img.shields.io/badge/Django-1337EC?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-1337EC?style=for-the-badge&logo=node.js&logoColor=white)
+![Docusaurus](https://img.shields.io/badge/Docusaurus-1337EC?style=for-the-badge&logo=docusaurus&logoColor=white)
 
 **`DATA & INFRASTRUCTURE`**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1337EC?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-1337EC?style=for-the-badge&logo=docker&logoColor=white)
+![Render](https://img.shields.io/badge/Render-1337EC?style=for-the-badge&logo=render&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-1337EC?style=for-the-badge&logo=vercel&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-1337EC?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-1337EC?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1337EC?style=for-the-badge&logo=githubactions&logoColor=white)
 
 </div>
 
@@ -83,15 +83,15 @@ Full-stack engineer shipping production systems end-to-end across mobile, web, a
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=CHAMA18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub stats" height="165"/>
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=CHAMA18&show_icons=true&hide_border=true&bg_color=05060b,101322&title_color=60A5FA&icon_color=60A5FA&text_color=E2E8F0&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub stats" height="165"/>
     </td>
     <td align="center">
-      <img src="https://streak-stats.demolab.com?user=CHAMA18&theme=github-dark&hide_border=true&background=00000000" alt="GitHub streak" height="165"/>
+      <img src="https://streak-stats.demolab.com?user=CHAMA18&hide_border=false&background=101322&border=1337EC&stroke=60A5FA&ring=1337EC&currStreakNum=FFFFFF&currStreakLabel=60A5FA&sideNums=E2E8F0&sideLabels=94A3B8&dates=94A3B8" alt="GitHub streak" height="165"/>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CHAMA18&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8" alt="Top languages" height="165"/>
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CHAMA18&layout=compact&hide_border=true&bg_color=05060b,101322&title_color=60A5FA&text_color=E2E8F0&langs_count=8" alt="Top languages" height="165"/>
     </td>
   </tr>
 </table>
@@ -106,9 +106,9 @@ Full-stack engineer shipping production systems end-to-end across mobile, web, a
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-chungu424%40gmail.com-00C9FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chungu424@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-chungu--chama.com-00FF9D?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.chungu-chama.com)
-[![GitHub](https://img.shields.io/badge/GitHub-CHAMA18-4D00FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CHAMA18)
+[![Email](https://img.shields.io/badge/Email-chungu424%40gmail.com-1337EC?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chungu424@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-chungu--chama.com-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.chungu-chama.com)
+[![GitHub](https://img.shields.io/badge/GitHub-CHAMA18-101322?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CHAMA18)
 
 </div>
 
@@ -116,6 +116,6 @@ Full-stack engineer shipping production systems end-to-end across mobile, web, a
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9d,50:00c9ff,100:4d00ff&height=110&section=footer&text=BUILT%20IN%20LUSAKA%20%C2%B7%20ZAMBIA&fontSize=18&fontColor=ffffff&fontAlignY=68" width="100%" alt="footer-banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1337EC,50:60A5FA,100:A855F7&height=110&section=footer&text=BUILT%20IN%20LUSAKA%20%C2%B7%20ZAMBIA&fontSize=18&fontColor=ffffff&fontAlignY=68" width="100%" alt="footer-banner"/>
 
 </div>
