@@ -1,0 +1,57 @@
+<svg width="1600" height="420" viewBox="0 0 1600 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Chungu Chipimo Chama — Engineering The Future · Full-Stack Engineer · Lusaka, Zambia">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1600" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1337EC"/>
+      <stop offset="0.5" stop-color="#60A5FA"/>
+      <stop offset="1" stop-color="#A855F7"/>
+    </linearGradient>
+    <radialGradient id="glowL" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(240 90) scale(580)">
+      <stop offset="0" stop-color="#1337EC" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#1337EC" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowR" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1390 350) scale(540)">
+      <stop offset="0" stop-color="#A855F7" stop-opacity="0.34"/>
+      <stop offset="1" stop-color="#A855F7" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0H0V44" fill="none" stroke="#1337EC" stroke-opacity="0.10"/>
+    </pattern>
+    <clipPath id="frame">
+      <rect width="1600" height="420" rx="24"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1600" height="420" fill="#05060B"/>
+    <rect width="1600" height="420" fill="url(#grid)"/>
+    <rect width="1600" height="420" fill="url(#glowL)"/>
+    <rect width="1600" height="420" fill="url(#glowR)"/>
+
+    <!-- top accent hairline -->
+    <rect width="1600" height="5" fill="url(#accent)"/>
+
+    <!-- corner plus marks -->
+    <path d="M72 64v16M64 72h16" stroke="#60A5FA" stroke-opacity="0.45" stroke-width="2"/>
+    <path d="M1528 64v16M1520 72h16" stroke="#60A5FA" stroke-opacity="0.45" stroke-width="2"/>
+    <path d="M72 340v16M64 348h16" stroke="#60A5FA" stroke-opacity="0.45" stroke-width="2"/>
+    <path d="M1528 340v16M1520 348h16" stroke="#60A5FA" stroke-opacity="0.45" stroke-width="2"/>
+
+    <!-- eyebrow -->
+    <text x="800" y="132" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="26" font-weight="600" letter-spacing="8" fill="#60A5FA">ENGINEERING THE FUTURE</text>
+
+    <!-- name -->
+    <text x="800" y="226" text-anchor="middle" font-family="-apple-system,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="84" font-weight="800" fill="#FFFFFF">Chungu Chipimo Chama</text>
+
+    <!-- gradient underline -->
+    <rect x="662" y="254" width="276" height="5" rx="2.5" fill="url(#accent)"/>
+
+    <!-- subtitle -->
+    <text x="800" y="310" text-anchor="middle" font-family="-apple-system,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="31" font-weight="500" fill="#E2E8F0">Full-Stack Engineer · Flutter · Next.js · Python</text>
+
+    <!-- meta line -->
+    <text x="800" y="358" text-anchor="middle" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="23" font-weight="400" fill="#94A3B8">Lusaka, Zambia · Remote-friendly · Open to opportunities</text>
+  </g>
+
+  <!-- border -->
+  <rect x="0.75" y="0.75" width="1598.5" height="418.5" rx="23.25" stroke="#1337EC" stroke-opacity="0.38" stroke-width="1.5"/>
+</svg>
