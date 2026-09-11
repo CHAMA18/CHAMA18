@@ -12,8 +12,6 @@
 
 ## ⚡ Profile
 
-Full-stack engineer shipping production systems end-to-end across mobile, web, and backend. Core stack: **Flutter/Dart** for cross-platform applications, **Next.js/TypeScript** for web platforms, **Python** for backend services and AI tooling, with **PostgreSQL/Docker** infrastructure on Render and Vercel. Currently building AI-native products in logistics ([NDU](https://nduproject.com)), agritech (UlimaAI), and SaaS automation (Reform, Delegate.ai, Verdant AI). Comfortable owning the full delivery lifecycle: architecture → implementation → CI/CD → production deployment.
-
 | Metric | Value |
 | --- | --- |
 | Contributions (trailing 12 months) | **10,573** |
